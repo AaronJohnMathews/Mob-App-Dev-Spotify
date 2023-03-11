@@ -1,0 +1,35 @@
+Deposited ${amount}
+Withdrew ${amount}
+Deposited 10.0
+Withdrew 14.75
+Deposited 10.0 			Balance: 40.5
+Withdrew 14.75 			Balance: 25.75
+Deposited 20.0 			Balance: 30.5
+Withdrew 20.0 			Balance: 30.5
+Deposited 20.0 			Balance: 10.5
+Withdrew 20.0 			Balance: -9.5
+Deposited 100.0 			Balance: -109.5
+Deposited 200.0 			Balance: -309.5
+Deposited 1000.0 			Balance: -1309.5
+Withdrew 200.0 			Balance: -1509.5
+Deposited 400.0 			Balance: -1909.5
+Deposited 1000.0 			Balance: -2909.5
+Withdrew 3000.0 			Balance: -5909.5
+Deposited 200.0 			Balance: -6109.5
+Deposited 100.0 			Balance: -6209.5
+Withdrew 1500.0 			Balance: -7709.5
+Deposited 100.0 			Balance: -7809.5
+Withdrew 100.0 			Balance: -7909.5
+Deposited 100.0 			Balance: -8009.5
+Withdrew 100.0 			Balance: -8109.5
+Deposited 1000.0 			balance: 1050.5
+Withdrew 1000.0 			balance: 50.5
+Deposited 100.0 			balance: 150.5
+Withdrew 20.0 			balance: 30.5
+Deposited 1000.0 			balance: 1050.5
+Withdrew 500.0 			balance: 550.5
+Deposited 100.0 			balance: 150.5
+Withdrew 400.0 			balance: -249.5
+Withdrew 20.0 			balance: 30.5
+Deposited 1000.0 			balance: 1030.5
+Deposited 1000.0 			balance: 2030.5
